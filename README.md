@@ -10,4 +10,13 @@ You can find the syllabus [here](RELI3023_Digital_Religion_Syllabus_sm.pdf).
 ## Community Agreements ##
 Our living and dynamic [community agreements](Community_Agreements.md).
 ## Grading Rubrics ##
+### Short Papers ###
 There is a basic grading rubric for short papers in the [syllabus](RELI3023_Digital_Religion_Syllabus_sm.pdf). A more detailed chart of grading can be found [here](Short_Paper_Evaluation_Rubric.pdf). 
+### Mapping Project ###
+Coming soon
+### Hashtag Tracing ###
+Coming soon
+### Network Mapping/Analysis ###
+Coming soon
+### Portfolio ###
+Coming soon
